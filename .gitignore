@@ -1,5 +1,6 @@
 # .gitignore
 *.py[cod]
+*.egg-info/
 .cache
 .pytest_cache
 __pycache__
@@ -16,6 +17,7 @@ mycustompath
 # packaging
 MANIFEST
 dist
+build
 
 # mac
 .DS_Store
