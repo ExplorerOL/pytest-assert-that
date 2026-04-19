@@ -1,6 +1,6 @@
-# pytest_assert_that
+# pytest-assert-that
 
-It is a fork of the assertpy - simple assertions library for testing in Python with a nice fluent API. Main feature of pytest_assert_that is that pytest assertions rewritings (introspection) work!
+It is a fork of the [assertpy](https://github.com/assertpy/assertpy) - assertions library for testing in Python with a nice fluent API. Main feature of pytest_assert_that is that pytest assertions rewritings (introspection) work!
 
 
 ## Usage
